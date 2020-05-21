@@ -1,0 +1,6 @@
+﻿  KK.cpp
+c:\users\michał\source\repos\kk\kk\kk.cpp(69): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\kk\kk\kk.cpp(78): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\kk\kk\kk.cpp(171): warning C4715: "Gra::Sprawdz”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\michał\source\repos\kk\kk\kk.cpp(90): warning C4715: "Gra::Najlepszy”: niewszystkie ścieżki kodu zwracają wartość
+  KK.vcxproj -> C:\Users\Michał\source\repos\KK\Debug\KK.exe
